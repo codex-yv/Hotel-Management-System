@@ -39,6 +39,14 @@ After setup1 is completed>>
 6)in cmd prompt type:
         py -3.10 setup2.py (Note:-Satisfy all the versions of python)
 
+                        if not works;
+
+        py -3.10 setup2a.py
+
+                        if not works;
+        
+        py -3.10 zconnect.py
+
 
 =================================== PHASE--3> USE THE APP =================================== 
 
